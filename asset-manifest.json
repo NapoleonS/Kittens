@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Kittens/static/css/main.c2e26455.chunk.css",
+    "main.css": "/Kittens/static/css/main.533458d8.chunk.css",
     "main.js": "/Kittens/static/js/main.63421c14.chunk.js",
     "main.js.map": "/Kittens/static/js/main.63421c14.chunk.js.map",
     "runtime-main.js": "/Kittens/static/js/runtime-main.d32ec3a1.js",
@@ -8,15 +8,15 @@
     "static/js/2.cf8a7680.chunk.js": "/Kittens/static/js/2.cf8a7680.chunk.js",
     "static/js/2.cf8a7680.chunk.js.map": "/Kittens/static/js/2.cf8a7680.chunk.js.map",
     "index.html": "/Kittens/index.html",
-    "precache-manifest.1e2cb7884b7ddf9a6c6db1042def9de6.js": "/Kittens/precache-manifest.1e2cb7884b7ddf9a6c6db1042def9de6.js",
+    "precache-manifest.bc9aa487d02017f51f64fce4962c4991.js": "/Kittens/precache-manifest.bc9aa487d02017f51f64fce4962c4991.js",
     "service-worker.js": "/Kittens/service-worker.js",
-    "static/css/main.c2e26455.chunk.css.map": "/Kittens/static/css/main.c2e26455.chunk.css.map",
+    "static/css/main.533458d8.chunk.css.map": "/Kittens/static/css/main.533458d8.chunk.css.map",
     "static/js/2.cf8a7680.chunk.js.LICENSE": "/Kittens/static/js/2.cf8a7680.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.d32ec3a1.js",
     "static/js/2.cf8a7680.chunk.js",
-    "static/css/main.c2e26455.chunk.css",
+    "static/css/main.533458d8.chunk.css",
     "static/js/main.63421c14.chunk.js"
   ]
 }
